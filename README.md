@@ -4,6 +4,8 @@ This readme shows how to use Linux Terminal in Windows 10 easily
 
 ## Install Linux Subsystem in Windows 10:
 
+Download and install the according Linux system for u-you at: https://docs.microsoft.com/en-us/windows/wsl/install-win10
+install
 In Powershell as admin:
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 restart

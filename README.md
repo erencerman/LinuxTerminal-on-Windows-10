@@ -15,5 +15,6 @@ restart
 
 use your LINUX_SYSTEM_NAME (example: Ubuntu) in search and it will be installed in first run.
 
-It uses the folders in as "C:\Users\USERNAME\AppData\Local\Packages\LINUX_SYSTEM_NAME
+as home tthis linux uses the windows folders "C:\Users\USERNAME\AppData\Local\Packages\LINUX_SYSTEM_NAME\LocalState\roofts\home
+
 
